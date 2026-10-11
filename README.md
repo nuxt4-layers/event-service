@@ -1,1 +1,1 @@
-# event-service
+# @nuxt4-layers/event-service
